@@ -10,4 +10,4 @@ Skills: HTML / CSS / JAVASCRIPT / Go / Java / Python / Linux
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=o-merouane&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/o-merouane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/younes-haddam-754b5019b/](https://www.linkedin.com/in/merouane-aymèn) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/o-merouane) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/merouane-aymèn) 
